@@ -13,7 +13,7 @@ I am interested in software systems where decisions have constraints, costs, and
   <a href="https://lift-nexus.amine-bahij.dev">
     <img src="https://img.shields.io/badge/Project-Lift%20Nexus%20API-2563eb?style=for-the-badge" alt="Lift Nexus API" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-amine">
+  <a href="https://www.linkedin.com/in/amine-bahij/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -114,7 +114,7 @@ I use my personal website to document projects, technical reflections, and learn
   <a href="https://amine-bahij.dev">
     <img src="https://img.shields.io/badge/Website-amine--bahij.dev-0f172a?style=for-the-badge" alt="Website" />
   </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-amine">
+  <a href="https://www.linkedin.com/in/amine-bahij/">
     <img src="https://img.shields.io/badge/LinkedIn-mohamed--amine--amine-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
