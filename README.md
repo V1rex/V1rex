@@ -115,6 +115,6 @@ I use my personal website to document projects, technical reflections, and learn
     <img src="https://img.shields.io/badge/Website-amine--bahij.dev-0f172a?style=for-the-badge" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/amine-bahij/">
-    <img src="https://img.shields.io/badge/LinkedIn-mohamed--amine--amine-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-amine--bahij-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
