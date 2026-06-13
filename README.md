@@ -34,7 +34,7 @@ I am interested in software systems where decisions have constraints, costs, and
 <p align="left">
   <a href="https://lift-nexus.amine-bahij.dev">
     <img
-      src="https://raw.githubusercontent.com/V1rex/lift-nexus-api/develop/docs/assets/logo_horizental_without_gradient_slim.png"
+      src="https://raw.githubusercontent.com/V1rex/lift-nexus-api/develop/docs/assets/logo_horizontal_without_gradient_slim.png"
       alt="Lift Nexus API logo"
       width="320"
     />
